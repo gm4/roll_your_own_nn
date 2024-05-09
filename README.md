@@ -21,7 +21,7 @@ Lots of things you can do to practice or make it your own
 
 * tensors
   * build your own tensor class
-  * extend it to make it compatible with GPUs
+  * extend it for compatibility with GPUs
 * loss functions
   * MSE is but one measure (many others to choose from)
   * add regularization to penalize larger differences
