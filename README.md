@@ -42,4 +42,4 @@ Lots of things you can do to practice or make it your own
 
 # Attribution
 
-Though not a fork, this repository is inspired from [joelnet](https://github.com/joelgrus/joelnet)by Joel Grus.
+Though not a fork, this repository is inspired from [joelnet](https://github.com/joelgrus/joelnet) by Joel Grus.
