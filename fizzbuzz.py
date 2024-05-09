@@ -44,6 +44,9 @@ targets = np.array([
 ])
 
 
+print(inputs.shape)
+print(targets.shape)
+
 net = NeuralNetwork([
     Linear(input_size=10, output_size=50),
     Tanh(),
@@ -54,7 +57,7 @@ net = NeuralNetwork([
 train(net,
       inputs,
       targets,
-      num_epochs=5000,
+      num_epochs=5,
       optimizer=SGD(lr=0.001))
 
 for x in range(1, 101):
